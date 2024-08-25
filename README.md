@@ -15,7 +15,7 @@ FOLLOW THE PROJECT ON YOUTUBE : https://www.youtube.com/playlist?list=PLm7R-cUo2
 **COMMENTS**
 
 
-Comments are denoted using the ~ (BACK TICK) operator.
+Comments are denoted using the ~ (TILDE) operator.
 
     ~ this is a comment
 
